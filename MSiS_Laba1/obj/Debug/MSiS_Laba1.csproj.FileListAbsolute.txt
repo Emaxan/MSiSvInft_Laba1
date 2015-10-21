@@ -1,0 +1,15 @@
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\bin\Debug\MSiS_Laba1.exe.config
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\bin\Debug\MSiS_Laba1.exe
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\bin\Debug\MSiS_Laba1.pdb
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MSiS_Laba1.csprojResolveAssemblyReference.cache
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MainWindow.baml
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MainWindow.g.cs
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\App.g.cs
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MSiS_Laba1_MarkupCompile.cache
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MSiS_Laba1.g.resources
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MSiS_Laba1.Properties.Resources.resources
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MSiS_Laba1.csproj.GenerateResource.Cache
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MSiS_Laba1.exe
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\obj\Debug\MSiS_Laba1.pdb
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\bin\Debug\Stateless.dll
+E:\Programs\VS\_MSiSvInfT\Laba1\MSiS_Laba1\MSiS_Laba1\bin\Debug\Stateless.xml
